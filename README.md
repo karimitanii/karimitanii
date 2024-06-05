@@ -5,7 +5,6 @@
 <img align="middle" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimitanii" alt="karimitanii" /></a> </p>
 
 - 🌱 I’m currently learning **React & Node js**
 
