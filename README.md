@@ -1,8 +1,4 @@
-To center the image `<img align="middle" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">` in the middle of the page, you can use CSS. Below is your modified code with the necessary adjustments:
 
-```html
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
