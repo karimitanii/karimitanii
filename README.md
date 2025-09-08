@@ -1,7 +1,7 @@
 ![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc1cTg4c3V6bmZoZ3JseDd6czhtbW5zaGIxamlvMG9mc2E2bTJmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4EpkVLqUj8BI7OV2/giphy.webp)
 
 <h1 align="center">Hi , I'm Karim Itani</h1>
-<h3 align="center">Software and Machine Learning Engineer</h3>
+<h3 align="center">AI Engineer</h3>
 <img align="middle" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🌱 I’m currently learning **React & Node js**
