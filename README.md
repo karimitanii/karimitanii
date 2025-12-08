@@ -43,12 +43,12 @@ AI Engineer passionate about building intelligent systems, scalable architecture
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1E88E5?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1E88E5?style=for-the-badge&logo=langchain)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama)
 
 
 ### **DevOps & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
