@@ -79,5 +79,6 @@ AI Engineer passionate about building intelligent systems, scalable architecture
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimitanii"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karimitanii"/>
+
 </div>
