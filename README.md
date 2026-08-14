@@ -70,11 +70,4 @@ AI Engineer passionate about building intelligent systems, scalable architecture
 </a>
 </p>
 
-📫 **Reach me at:** **karimitani33@gmail.com**
 
----
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karimitanii"/>
-
-</div>
